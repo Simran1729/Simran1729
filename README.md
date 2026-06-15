@@ -12,11 +12,9 @@ Building scalable web applications with Next.js, TypeScript, Node.js, PostgreSQL
 
 ## 👩‍💻 About Me
 
-* 💼 Software Developer at LDT Technology
-* 🚀 Building production-grade fintech applications
+* 💼 Software Developer
 * 🌱 Passionate about Full Stack Development
 * ⚡ Strong focus on frontend architecture and scalable backend systems
-* 🤖 Interested in AI-powered applications and developer tools
 * 📍 Punjab, India
 
 ---
@@ -41,12 +39,17 @@ Building scalable web applications with Next.js, TypeScript, Node.js, PostgreSQL
   <img src="https://skillicons.dev/icons?i=redux" />
 </p>
 
-* TanStack Query
-* Zustand
-* React Hook Form
-* Zod
-* Material UI
-* shadcn/ui
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
+
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+
+![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge)
+
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge)
+
+![Material_UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 ### Backend
 
@@ -110,7 +113,6 @@ Building scalable web applications with Next.js, TypeScript, Node.js, PostgreSQL
 
 * Building scalable full-stack applications
 * Learning advanced system design concepts
-* Exploring AI integrations in modern web applications
 * Writing cleaner, maintainable, production-grade code
 
 ⭐ Thanks for visiting my profile!
