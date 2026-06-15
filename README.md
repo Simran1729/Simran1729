@@ -63,7 +63,7 @@ Building scalable web applications with Next.js, TypeScript, Node.js, PostgreSQL
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
 </p>
 
-* Prisma ORM
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### Cloud & Dev Tools
 
@@ -73,11 +73,11 @@ Building scalable web applications with Next.js, TypeScript, Node.js, PostgreSQL
 
 ### AI & Integrations
 
-* OpenAI GPT
-* OpenAI Whisper
-* REST APIs
-* JWT Authentication
-* RBAC
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI Whisper](https://img.shields.io/badge/OpenAI_Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-4CAF50?style=for-the-badge)
 
 ---
 
